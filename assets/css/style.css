@@ -38,7 +38,7 @@ img { max-width: 100%; }
 /***** Divider *****/
 
 .divider-1 { padding: 25px 0 15px 0; }
-.divider-1 .line { width: 160px; margin: 0 auto; border-bottom: 1px dashed #ccc; }
+.divider-1 .line { width: 160px; margin: 0 auto; border-bottom: 2px dashed rgb(75, 4, 4); }
 
 
 /***** Top menu *****/
