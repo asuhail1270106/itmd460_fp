@@ -45,7 +45,7 @@ img { max-width: 100%; }
 .navbar {
 	margin-bottom: 0;
 	padding-top: 0;
-	background: #444;
+	background: rgb(0, 0, 0);
 	border: 0;
 	-moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0;
 	-o-transition: all .6s; -moz-transition: all .6s; -webkit-transition: all .6s; -ms-transition: all .6s; transition: all .6s;
